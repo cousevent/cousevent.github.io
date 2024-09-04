@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cousevent.github.io/sitemap.html.gz
+Sitemap: https://cousevent.github.io/app/sitemap.html.gz
+Sitemap: https://cousevent.github.io/assets/sitemap.html.gz
+Sitemap: https://cousevent.github.io/css/sitemap.html.gz
+Sitemap: https://cousevent.github.io/includes/sitemap.html.gz
+Sitemap: https://cousevent.github.io/item/sitemap.html.gz
+Sitemap: https://cousevent.github.io/src/sitemap.html.gz
